@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry Onu</h1>
 <h3 align="center">I am a Full Stack Web Developer and a Graduate level Agricultural Engineer from Nigeria</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryhaulka" alt="henryhaulka" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryhaulka" alt="henryhaulka" margin="10px" /></a> </p>
 
 - 🔭 I’m currently a full time student at [Microverse Inc.](https://www.microverse.org/)
 
