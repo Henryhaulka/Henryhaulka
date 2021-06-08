@@ -30,8 +30,8 @@
 
 <h3 align="left">GitHub Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henryhaulka&show_icons=true&locale=en&layout=compact" alt="henryhaulka" /></p></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henryhaulka&show_icons=true&locale=en" alt="henryhaulka" /></p></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryhaulka&show_icons=true&locale=en" alt="henryhaulka" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryhaulka&show_icons=true&theme=radical" alt="henryhaulka" /></p></br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryhaulka&" alt="henryhaulka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryhaulka&theme=radical" alt="henryhaulka" /></p>
