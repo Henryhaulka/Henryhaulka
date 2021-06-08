@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Henry Onu</h1>
 <h3 align="center">A Full Stack Web Developer and a Graduate-level Agricultural Engineer from Nigeria</h3>
-<i align="center">If you can't fly, then run. If you can't run, then walk. If you can't walk, then crawl. but whatever you do, you have to keep moving forward <span align="center"> ~ Martin Luther King</span></i>
+<i align="center">If you can't fly, then run. If you can't run, then walk. If you can't walk, then crawl. but whatever you do, you have to keep moving forward 
+<p align="center"> ~ Martin Luther King</p></i><br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryhaulka" alt="henryhaulka" margin="10px" /></a> </p>
 
 - 🔭 I’m currently a full time student at [Microverse Inc.](https://www.microverse.org/)
