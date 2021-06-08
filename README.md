@@ -30,7 +30,7 @@
 
 <h3 align="left">GitHub Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henryhaulka&show_icons=true&locale=en&layout=compact" alt="henryhaulka" /></p></br>
+<p margin-bottom="15px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henryhaulka&show_icons=true&locale=en&layout=compact" alt="henryhaulka" /></p></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryhaulka&show_icons=true&locale=en" alt="henryhaulka" /></p></br>
 
